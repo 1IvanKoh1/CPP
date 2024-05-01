@@ -1,0 +1,2 @@
+123,John,Smith,male,10.02.2001,Karazin,462.0
+12,Jerry,Holms,male,02.05.2003,KPI,241.0
