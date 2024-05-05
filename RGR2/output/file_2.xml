@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DataSheet>
+            
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+
+    <data date="05/05/2024">
+        <x>50.0</x>
+        <y>0.0</y>
+    </data>
+    <data date="05/05/2024">
+        <x>0.0</x>
+        <y>-50.0</y>
+    </data>
+    <data date="05/05/2024">
+        <x>24.0</x>
+        <y>12.0</y>
+    </data>
+    <data date="05/05/2024">
+        <x>35.0</x>
+        <y>58.0</y>
+    </data>
+</DataSheet>
